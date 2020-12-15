@@ -15,5 +15,8 @@ To be updated
 This repository will be updated without any prior notice.
 * All the content related to kubernetes has been taken from https://kubernetes.io/docs/home/ and content related to vagrant is taken from https://www.vagrantup.com/. 
 
+# Support:
+For any suggestions/clarifications please drop a mail to iamyaswanth@gmail.com. All queries will be addressed. 
+
 
 
