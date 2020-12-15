@@ -9,4 +9,9 @@ This setup uses vagrant to install the Kubernetes cluster with 1 Master and 2 Wo
 2. run "vagrant up" command to bring the master and worker nodes.
 3. After sometime(depending on internet bandwidth) the setup will take time and gets completed successfully.
 
+# Disclaimer:
+This repository will be updated without any prior notice.
+* All the content related to kubernetes has been taken from https://kubernetes.io/docs/home/ and content related to vagrant is taken from https://www.vagrantup.com/. 
+
+
 
