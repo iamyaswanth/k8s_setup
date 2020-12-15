@@ -3,7 +3,7 @@ This setup uses vagrant to install the Kubernetes cluster with 1 Master and 2 Wo
 # Pre-requisites:
 1. Vagrant for windows should be installed on the windows machine.
 2. Virtualization should be enabled.
-3. Virtualbox preferably oracle virtual box should be installed on the virual machine.
+3. Virtualbox, preferably oracle virtual box should be installed on the virual machine.
 # Directory structure:
 To be updated
 # Execution steps:
