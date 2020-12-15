@@ -1,4 +1,4 @@
-# K8s setup using vagrant.
+# Kubernetes cluster setup using vagrant.
 This setup uses vagrant to install the Kubernetes cluster with 1 Master and 2 Worker nodes.
 # Pre-requisites:
 1. Vagrant for windows should be installed on the windows machine.
